@@ -2,3 +2,8 @@ h1{
 	color: aliceblue;
 	font-size: 45px;
 }
+p{
+	margin-bottom: 30px;
+	font-size: 24px;
+	background-color: rgb(221, 208, 208);
+}
